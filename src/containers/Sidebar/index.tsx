@@ -1,4 +1,4 @@
-import Avatar from '../../components/Avater'
+import Avatar from '../../components/Avatar'
 import Paragrafo from '../../components/Paragrafo'
 import Titulo from '../../components/Titulo'
 import { Descricao, BotaoTema, SidebarContainer } from './styles'
